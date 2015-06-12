@@ -1,0 +1,19 @@
+{
+  "name": "vendor/package",
+  "description": "",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Impactwave",
+      "email": "impactwave@impactwave.com",
+      "homepage": "http://impactwave.com"
+    }
+],
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Namespace\\": "src"
+    }
+  }
+}
